@@ -17,14 +17,14 @@ settings = {
     "FromUserName": "oLXjgjiWeAS1gfe4ECchYewwoyTc",
 
     # URL of your Wexin handler.
-    "url": "http://localhost:8080/weixin",
+    "url": "http://localhost/",
 
     # These will be displayed in GUI.
     "mp_display_name": "APP",
     "me_display_name": "ME",
 
     # The token you submitted to Weixin MP. Used to generate signature.
-    "token": ""
+    "token": "810286_e"
 }
 
 
